@@ -1,6 +1,8 @@
 # Icon Logistics and Transportation website
 
-A one-page static marketing site: plain HTML, CSS and a small vanilla JS file. There is no framework and no build step, so the `site/` folder can be hosted anywhere as it is.
+**Live site: <https://www.icon-logistic.com>**
+
+A one-page static marketing site: plain HTML, CSS and a small vanilla JS file. There is no framework and no build step. GitHub Pages publishes the `site/` folder automatically on every push to `main`.
 
 ```
 site/
@@ -13,7 +15,9 @@ tools/
   build-images.cjs  regenerates the image variants (only needed when a photo changes)
 ```
 
-## Preview locally
+## Preview changes before publishing (optional)
+
+This is only for checking edits on your own computer before pushing them. It isn't how visitors reach the site, and the address below works only on that computer.
 
 Run a static server from the project folder, then open <http://localhost:8080>. On Windows this needs no installs:
 
