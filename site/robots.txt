@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.iconlogistics.so/sitemap.xml
+Sitemap: https://www.icon-logistic.com/sitemap.xml

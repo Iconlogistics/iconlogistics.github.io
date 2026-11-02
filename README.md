@@ -81,7 +81,7 @@ jobs:
 
 ## If the domain changes
 
-`https://www.iconlogistics.so` is hard-coded. Search and replace it in `site/index.html` (canonical, Open Graph, Twitter, JSON-LD and the visible website link), `site/robots.txt` and `site/sitemap.xml`.
+`https://www.icon-logistic.com` is hard-coded. Search and replace it in `site/index.html` (canonical, Open Graph, Twitter, JSON-LD and the visible website link), `site/robots.txt` and `site/sitemap.xml`.
 
 ## Things to know when editing
 
