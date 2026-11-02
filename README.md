@@ -7,7 +7,7 @@ Logistics, customs clearance, transport, procurement and travel services across 
 ## Contact
 
 - Phone: +252 614 477 778 / +252 622 222 168
-- Email: info@iconlogistics.so
+- Email: info@icon-logistic.com
 - Location: Mogadishu, Somalia
 
 ---
